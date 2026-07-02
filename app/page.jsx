@@ -21,7 +21,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
           <FadeIn as="figure" className="relative aspect-4/3 w-full rounded-xl overflow-hidden order-2 lg:order-1">
             <Image
-              src="/home/advisory-team.png"
+              src="/home/advisory-team.jpeg"
               alt="BlackGold Advisory consultants reviewing financial strategy with a client"
               fill
               className="object-cover"

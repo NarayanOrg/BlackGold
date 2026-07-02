@@ -56,7 +56,7 @@ export default function AboutPage() {
 
           <FadeIn as="figure" delay={100} className="relative aspect-4/3 w-full rounded-xl overflow-hidden">
             <Image
-              src="/about/team-office.png"
+              src="/about/team-office.jpeg"
               alt="BlackGold Advisory team working together in the office"
               fill
               className="object-cover"
